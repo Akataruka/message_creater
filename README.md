@@ -1,4 +1,3 @@
-```markdown
 # 🧊 Cold Message Generator
 
 ## Project Overview
