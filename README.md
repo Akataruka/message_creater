@@ -106,6 +106,7 @@ Follow these steps to get the project up and running on your local machine.
 └── README.md                   # This file
 ```
 
-## 📄 License
+### For more details on workflow refer below
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+- Dev.to blog -> [**Cold Message Generator Blod Dev.to**](https://dev.to/asutoshk_09/crafting-perfect-cold-messages-my-ai-powered-streamlit-app-journey-4i36)
+- HashNode blog -> [**Cold Message Generator Blod HashNode**](https://development-daily-ak.hashnode.dev/crafting-perfect-cold-messages-my-ai-powered-streamlit-app-journey)
